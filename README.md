@@ -14,10 +14,10 @@ This repository contains everything you need to build your own scaled-down CHERI
 * **Accurate Locomotion:** Designed to accommodate the project's signature J-shaped whegs.
 
 ## 📂 Repository Structure
-* `/cad` - 2D cut drawings (DXF) for the 3mm plexiglass and 3D print files (STL/STEP) for the corner mounts.
-* `/docs` - Renderings, photos of the completed build, and step-by-step assembly instructions.
-* `/electronics` - Wiring diagrams, pinouts, and the complete Bill of Materials (BOM).
-* `/src` - MicroPython code for the Raspberry Pi Pico.
+* [**/tree/cad**](./cad) - 2D cut drawings (DXF) for the 3mm plexiglass and 3D print files (STL/STEP) for the corner mounts.
+* [**/tree/docs**](./docs) - Renderings, photos of the completed build, and step-by-step assembly instructions.
+* [**/tree/electronics**](./electronics) - Wiring diagrams, pinouts, and the complete Bill of Materials (BOM).
+* [**/tree/src**](./src) - MicroPython code for the Raspberry Pi Pico.
 
 ## 🚀 Getting Started
 1. **Fabrication:** Laser cut the plexiglass files located in the `/cad` folder and 3D print the corner mounts. 
