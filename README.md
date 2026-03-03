@@ -1,7 +1,5 @@
 # CHERI Educational Mock Model 🌕🤖
 
-# CHERI Educational Mock Model 🌕🤖
-
 An open-source, 60% scale educational and hobbyist replica of the CHERI (Challenging Environment Exploration Robot for Intelligence) lunar rover, originally developed for Türkiye's first lunar rover project in the Chang'e 8 mission at METU (Middle East Technical University). 
 
 This repository contains everything you need to build your own scaled-down CHERI rover. The chassis is designed to be accessible and easily manufactured, utilizing a 3mm plexiglass "puzzle" assembly method reinforced with 3D-printed corner mounts (or adhesive). It is driven by a Raspberry Pi Pico W, acting as a standalone Wi-Fi hotspot for remote control from any smart device.
